@@ -20,6 +20,7 @@ int main()
     containersSynchronization(vector, map);
     showContainers(vector, map);
 
+    system("pause");
     return 0;
 }
 
